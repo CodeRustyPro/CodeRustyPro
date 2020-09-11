@@ -2,16 +2,16 @@
 
 **Welcome to Github Profile** : 
 
->I live in India 
+  >I live in India 
 
->I love coding
+  >I love coding
 
->I love **learning**
+  >I love **learning**
 
->I founded MasterCoder
+  >I founded MasterCoder
 
 
->I have spent 9 years on Earth
+  >I have spent 9 years on Earth
 
 
 

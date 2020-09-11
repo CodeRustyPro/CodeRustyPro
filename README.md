@@ -2,7 +2,7 @@
 
 **Welcome to Github Profile** : 
 
- | >I live in India |
+  >I live in India 
 
   >I love coding
 
@@ -11,10 +11,10 @@
   >I founded MasterCoder
 
 
-  >I have spent 9 years on Earth
+  >I have spent 14 years on Earth
 
 
 
-**Now lets jump to something else :**
 
+ 
 

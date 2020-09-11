@@ -2,7 +2,7 @@
 
 **Welcome to Github Profile** : 
 
-  >I live in India 
+ | >I live in India |
 
   >I love coding
 

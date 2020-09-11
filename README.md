@@ -1,17 +1,17 @@
 # Hi ! I am Dev ...
 
-**Welcome to Github Profile** : 
+**Welcome to my Github Profile** : 
 
-  >I live in India 
+  >I live in India🇮🇳 
 
-  >I love coding
+  >I love coding💻
 
-  >I love **learning**
+  >I love **learning**🏫
 
-  >I founded MasterCoder
+  >I founded MasterCoder💻
 
 
-  >I have spent 14 years on Earth
+  >I have spent 14 years on Earth🌎
 
 
 

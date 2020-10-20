@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CodeRustyPro) 
 
-
+<img align="right" alt="Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CodeRustyPro&show_icons=true&hide_border=true&theme=radical" />
 
 
 **Welcome to my Github Profile** : 
@@ -23,4 +23,3 @@
 
  
 
-![Dev's github stats](https://github-readme-stats.vercel.app/api?username=CodeRustyPro&show_icons=true&theme=radical)

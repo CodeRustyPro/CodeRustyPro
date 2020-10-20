@@ -23,4 +23,4 @@
 
  
 
-[![Dev's github stats](https://github-readme-stats.vercel.app/api?username=CodeRustyPro)](https://github.com/anuraghazra/github-readme-stats)
+![Dev's github stats](https://github-readme-stats.vercel.app/api?username=CodeRustyPro&show_icons=true&theme=radical)

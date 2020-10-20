@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CodeRustyPro) 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media1.tenor.com/images/a65134d2c920a7d10312416c12ee1234/tenor.gif?itemid=7431307" width="230">
 
 
 **Welcome to my Github Profile** : 

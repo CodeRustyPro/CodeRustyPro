@@ -1,4 +1,4 @@
-<h1>Hi there, I am <a href="https://CodeRustyPro.github.io" target="_blank">Dev</a> 🙋🏽‍♂️</h1> 
+<h1>Hi there, I am <a href="https://CodeRustyPro.github.io" target="_blank">Dev</a>✋</h1> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CodeRustyPro) 
 

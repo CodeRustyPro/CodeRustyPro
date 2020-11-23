@@ -19,7 +19,7 @@
   >I have spent 14 years on Earth🌎
 
 
-  >I play Chess♟ and Cricket 🏏 
+  >I play Cricket 🏏 and Chess ♟ 
 
  
 

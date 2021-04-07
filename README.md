@@ -15,8 +15,6 @@
   >I love **learning**🏫
   
   >New Hackerrank problem repo everyday !
-  >I founded MasterCoder💻
-
 
   >I have spent 15 years on Earth🌎
 

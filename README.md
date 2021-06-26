@@ -6,7 +6,7 @@
 
 [comment]: <> (<img align="right" alt="Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CodeRustyPro&show_icons=true&theme=tokyonight&count_private=true&show_icons=true"/>)
 **Welcome to my Github Profile** : 
-  >Currently working with [Tensify](https://pypi.org/project/tensify) and ReactJS
+  >Currently working with [AskImagify](https://github.com/CodeRustyPro/AskImagify) and ReactJS
 
   >I live in India🗺
 

@@ -21,5 +21,5 @@
 
   >I play Cricket 🏏 and Chess ♟ 
 
- 
+ Status : Have my board exams in November-Dec ( Wont be active for some time ) :( 
 
